@@ -1,13 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29025.244
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToastHelper", "ToastHelper\ToastHelper.csproj", "{7A012F81-7D1C-4677-952D-708874E4346F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToastCore", "ToastCore\ToastCore.csproj", "{18F57AA0-E5ED-4569-A074-A0C622D3D52B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToastCore[netcore]", "ToastCore[netcore]\ToastCore[netcore].csproj", "{508A4E59-C433-40F1-B708-A945077B1625}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToastCore2", "ToastCore[netcore]\ToastCore2.csproj", "{508A4E59-C433-40F1-B708-A945077B1625}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreTest", "CoreTets\CoreTest.csproj", "{9406C3F8-80A3-44C0-AB6F-C2B9C7391C06}"
 EndProject

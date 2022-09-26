@@ -92,7 +92,7 @@ namespace ToastCore.Notification {
         public static void RegisterActivator<T>()
       where T : NotificationActivator {
 
-#if NET45
+#if NET452
             var regService = new RegistrationServices();
 
             regService.RegisterTypeForComClients(
